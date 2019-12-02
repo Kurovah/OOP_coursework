@@ -1,0 +1,5 @@
+﻿  entity.cpp
+  world.cpp
+  Generating Code...
+C:\Users\danny\Documents\UNI\Second_year\object oriented programming\coursework\OOP_Coursework_w1629904\OOP_Coursework_w1629904\world.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OOP_Coursework_w1629904.vcxproj -> C:\Users\danny\Documents\UNI\Second_year\object oriented programming\coursework\OOP_Coursework_w1629904\Debug\OOP_Coursework_w1629904.exe
